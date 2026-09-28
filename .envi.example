@@ -1,0 +1,3 @@
+GEMINI_API_KEY=your_key_from_aistudio.google.com
+CHAT_MODEL=gemini-2.5-flash
+EMBED_MODEL=gemini-embedding-001
